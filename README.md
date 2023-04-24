@@ -1,0 +1,1 @@
+・JavaScriptの変数宣言
