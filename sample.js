@@ -1,11 +1,9 @@
-function foo() {
-    let x ="webcamp"
-    {
-        let y ="hello webcamp"
-    }
+var str = "webcamp"
 
-    console.log(x)
-    console.log(y)
+function foo() {
+    console.log(str)
+    var str = "dmm webcamp"
+    console.log(str)
 }
 
 foo()
